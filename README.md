@@ -1,6 +1,6 @@
 ### Hi, I'm Akshad Ali 👋
 
-Frontend Developer specializing in **React.js** and the **MERN stack**, based in Lucknow, India.
+Frontend Developer specializing in **React.js** and the **MERN stack**, based in Noida, India.
 
 - 🔭 Building responsive, high-performance web apps with React.js, Node.js & MongoDB
 - 💼 6-month Frontend Developer internship at DigiCoders Technologies
