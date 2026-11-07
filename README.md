@@ -1,10 +1,10 @@
 ### Hi, I'm Akshad Ali 👋
 
-Frontend Developer specializing in **React.js** and the **MERN stack**, based in Noida, India.
+Full Stack Developer (MERN) building with **React.js, Node.js and MongoDB**, based in Noida, India. Available immediately.
 
-- 🔭 Building responsive, high-performance web apps with React.js, Node.js & MongoDB
+- 🔭 Building responsive, full-stack web apps, from UI to API to database
 - 💼 6-month Frontend Developer internship at DigiCoders Technologies
-- 🎓 BTech Computer Science, Integral University (2022–2026)
+- 🎓 B.Tech Computer Science, Integral University (2022–2026)
 - 📫 akshadali2977@gmail.com
 
 ### 🛠 Tech Stack
@@ -15,9 +15,12 @@ Frontend Developer specializing in **React.js** and the **MERN stack**, based in
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### 🚀 Featured Projects
-- **[Personal Portfolio](https://portfolio-six-sigma-w4pydi7bzk.vercel.app/)** — 95+ Lighthouse score, Vercel Git-based CI/CD
-- **[Movies Selector App](https://movie-selector-app-akshad-alis-projects.vercel.app)** — React Router + Context API movie browser
-- **[Travel With Dreams](https://travel-with-dreams.vercel.app)** — Full-stack booking site (React 19 + Express + Postgres)
+- **[Smart Wall Paint Visualizer](https://smart-wall-paint-visualizer-zeta.vercel.app)**: upload a room photo, mark walls and preview colours and patterns
+- **[Job Application Tracker](https://job-tracker-beta-vert.vercel.app)**: Next.js and TypeScript tracker for applications and statuses
+- **[RentEase](https://rentease-one-khaki.vercel.app)**: rental storefront project
+- **[Travel With Dreams](https://travel-with-dreams.vercel.app)**: full-stack booking site (React 19 + Express + Postgres)
+- **[Movies Selector App](https://movie-selector-app-akshad-alis-projects.vercel.app)**: React Router + Context API movie browser
+- **[Personal Portfolio](https://portfolio-six-sigma-w4pydi7bzk.vercel.app/)**: 95+ Lighthouse score, Vercel Git-based CI/CD
 
 ### 🔗 Connect
 [Portfolio](https://portfolio-six-sigma-w4pydi7bzk.vercel.app/) · [LinkedIn](https://linkedin.com/in/akshad-ali) · [Email](mailto:akshadali2977@gmail.com)
